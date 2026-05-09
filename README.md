@@ -1,3 +1,5 @@
+DeerFlow 是一个可以让 AI 自己研究、自己写代码、自己执行任务、自己调用工具、自己管理子智能体的「超级 Agent 框架」。
+
 # 🦌 DeerFlow - 2.0
 
 English | [中文](./README_zh.md) | [日本語](./README_ja.md) | [Français](./README_fr.md) | [Русский](./README_ru.md)
